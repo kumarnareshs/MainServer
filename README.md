@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Awesome, you've just made a new workspace!
 Workspaces are fantastic for organizing your work. This new workspace, which lives inside the 'Workspaces' folder of your home
 directory, is a place where you can store all relevant and related files to a particular project. For example, if you
@@ -16,3 +17,6 @@ As you move back and forth between your workspaces, Koding will remember everyth
 like IDE settings, files open, Terminals open, etc.
 
 Enjoy and Happy Koding!
+=======
+# MainServer
+>>>>>>> c2261c9a8832078e678c2de6966df4900c52d89d
